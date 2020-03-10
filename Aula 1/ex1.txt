@@ -1,0 +1,5 @@
+1) Sistema de gerenciamento de Banco de Dados é um conjunto de softwares responsáveis 
+pelo gerenciamento de um banco de dados. Já um banco de dados são um conjunto de 
+arquivos relacionados entre si com registros sobre pessoas, lugares ou qualquer 
+outra coisa que possa ser registrado com o intuito de obter informações sobre 
+determinada registro.
