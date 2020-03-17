@@ -1,0 +1,2 @@
+SELECT * FROM info_bebidas
+WHERE nome_bebida >= 'L'

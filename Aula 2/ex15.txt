@@ -1,0 +1,2 @@
+SELECT * FROM info_bebidas a
+WHERE a.nome_bebida NOT IN (SELECT nome_bebida FROM bebidas)

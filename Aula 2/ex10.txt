@@ -1,0 +1,1 @@
+SELECT AVG(preco) AS 'Media de Preco', AVG(carboidratos) AS 'Media de Carboidratos', AVG(calorias) AS 'Media de Calorias' FROM info_bebidas

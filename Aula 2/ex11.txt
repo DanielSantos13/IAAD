@@ -1,0 +1,2 @@
+SELECT AVG(preco) AS 'Media de Preco', AVG(carboidratos) AS 'Media de Carboidratos', AVG(calorias) AS 'Media de Calorias', cor, COUNT(cor) AS 'Quantidade de cores' FROM info_bebidas
+GROUP BY cor

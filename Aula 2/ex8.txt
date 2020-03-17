@@ -1,0 +1,2 @@
+SELECT * FROM info_bebidas
+WHERE preco >= 3.00 AND preco <= 4.00
